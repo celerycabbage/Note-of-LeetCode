@@ -15,3 +15,7 @@ for i,v in enumerate(s):
 #bit_length方法作用是得到指定数值的二进制的长度数、宽度数
 
 value.bit_length()
+
+#lstrip() 方法用于截掉字符串左边的空格或指定字符
+
+str.lstrip([chars])
