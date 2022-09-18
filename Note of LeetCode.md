@@ -11,3 +11,7 @@ for i,v in enumerate(s):
 ##字符转化成ascII码：ord('char')
 
 ##ascII码转化成字符：chr('int')
+
+#bit_length方法作用是得到指定数值的二进制的长度数、宽度数
+
+value.bit_length()
