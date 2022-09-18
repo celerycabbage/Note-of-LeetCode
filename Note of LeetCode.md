@@ -6,4 +6,8 @@
 
 for i,v in enumerate(s):
 
-#
+#字符的ascII转化关系
+
+##字符转化成ascII码：ord('char')
+
+##ascII码转化成字符：chr('int')
